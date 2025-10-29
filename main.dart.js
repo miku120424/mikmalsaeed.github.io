@@ -69531,9 +69531,9 @@ return A.eb("Capable of creating excellent mobile apps, web apps and more.  Capa
 $S:69}
 A.Gh.prototype={
 K(a){var s=null,r=A.h8(20),q=A.c([B.b2,B.ey],t.W)
-return A.wM(!1,s,!0,A.fE(B.a8,A.kl(A.c([A.eb("Download CV",s,s,A.ap(a).ok.ax.a9b(B.i,B.aa,1.2)),B.PO,B.Gs],t.p),B.O,B.N,B.a2),B.A,s,s,new A.d6(s,s,s,r,B.mg,new A.hj(B.y6,B.y5,B.aJ,q,s,s),B.ah),s,s,s,B.FL,s,s,s),s,!0,s,s,s,s,s,s,new A.Xk(),s,s,s)}}
+return A.wM(!1,s,!0,A.fE(B.a8,A.kl(A.c([A.eb("View CV",s,s,A.ap(a).ok.ax.a9b(B.i,B.aa,1.2)),B.PO,B.Gs],t.p),B.O,B.N,B.a2),B.A,s,s,new A.d6(s,s,s,r,B.mg,new A.hj(B.y6,B.y5,B.aJ,q,s,s),B.ah),s,s,s,B.FL,s,s,s),s,!0,s,s,s,s,s,s,new A.Xk(),s,s,s)}}
 A.Xk.prototype={
-$0(){A.aki(A.fo("https://drive.google.com/file/d/1HSIe7rdk8VtrAL4DQuybfMHQgDrQ6xNs/view?usp=sharing",0,null))},
+$0(){A.aki(A.fo("https://docs.google.com/document/d/1nEBCHpNezoz1LDPdV4cgk71uqVPQQm1F3xMN_fE_e_A/edit?usp=sharing",0,null))},
 $S:0}
 A.o8.prototype={
 K(a){return new A.ha(new A.a48(this),null)}}
@@ -78645,7 +78645,7 @@ B.lZ=new A.iU(58332,"MaterialIcons",null,!1)
 B.m_=new A.cR(24,0,400,0,48,B.k,1,null,!1)
 B.Gq=new A.cR(null,null,null,null,null,B.i,null,null,null)
 B.Gr=new A.cR(null,null,null,null,null,B.k,null,null,null)
-B.Gm=new A.a_n(61465,"FontAwesomeSolid","font_awesome_flutter",!1)
+B.Gm=new A.a_n(61550,"FontAwesomeRegular","font_awesome_flutter",!1)
 B.Gs=new A.nD(B.Gm,15,B.C,null,null)
 B.Go=new A.iU(57706,"MaterialIcons",null,!1)
 B.Gu=new A.nD(B.Go,null,B.i,null,null)
